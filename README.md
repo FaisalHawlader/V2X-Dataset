@@ -57,4 +57,4 @@ For the detailed description of the dataset, please refer to our [paper](https:/
 The total dataset is ~67GB and can be downloaded [here](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/raphael_frank_uni_lu/En6-LdcLQsBChOT90otp4RsBqo2a-HDHoxg8ntdjZYCVHg?e=JvngzB).
 
 ## Acknowledments
-This work has been financially supported by the [EU INTERREG GR Terminal project](https://terminal-interreg.eu/en/a-lighthouse-project-on-mobility-in-the-greater-region-2/). The authors would also like to thank Voyages Emile Weber Luxembourg for their support and for granting us access to their bus.
+This work is supported by the [Fonds National de la Recherche of Luxembourg (FNR)](https://www.fnr.lu/), under AFR grant agreement No 17020780 and project acronym ACDC.
