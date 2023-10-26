@@ -11,6 +11,15 @@ For the detailed description of the dataset, please refer to our [paper](https:/
   journal={arXiv preprint arXiv:2308.05234},
   year={2023}
 }
+@INPROCEEDINGS{10061953,
+  author={Hawlader, Faisal and Robinet, François and Frank, Raphaël},
+  booktitle={2023 18th Wireless On-Demand Network Systems and Services Conference (WONS)}, 
+  title={Vehicle-to-Infrastructure Communication for Real-Time Object Detection in Autonomous Driving}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={40-46},
+  doi={10.23919/WONS57325.2023.10061953}}
 ```
 
 ## Dataset
