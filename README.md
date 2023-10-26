@@ -5,13 +5,11 @@ Academic datasets are an important source of information to validate and benchma
 ## Publication
 For the detailed description of the dataset, please refer to our [paper](https://orbilu.uni.lu/handle/10993/47032). If you use this dataset in your research, please use the following citation:
 ```text
-@INPROCEEDINGS{9431129,  
-  author={Varisteas, Georgios and Frank, Raphaël and Robinet, François},  
-  booktitle={2021 IEEE International Conference on Pervasive Computing and Communications Workshops and other Affiliated Events (PerCom Workshops)},  
-  title={RoboBus: A Diverse and Cross-Border Public Transport Dataset},
-  year={2021},
-  pages={269-274},  
-  doi={10.1109/PerComWorkshops51409.2021.9431129}
+@article{hawlader2023leveraging,
+  title={Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving},
+  author={Hawlader, Faisal and Robinet, Fran{\c{c}}ois and Frank, Rapha{\"e}l},
+  journal={arXiv preprint arXiv:2308.05234},
+  year={2023}
 }
 ```
 
