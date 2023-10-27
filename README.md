@@ -27,24 +27,24 @@ If you use this dataset in your research, please use the following citation:
     - Training (6k images)
     - Validation (2k images)
     - and Testing (2k images)
-```
+      
 ### V2X-Dataset
-  - Train
+- Train
     - images
       - .*.bmp
-  - labels
+    - labels
       - *.txt
 - Test
     - images
       - .*.bmp
     - labels
       - *.txt
-  - Validation
+- Validation
     - images
       - .*.bmp
     - labels
       - *.txt
-```
+        
 ### Example Images
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
 
