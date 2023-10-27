@@ -22,7 +22,7 @@ If you use this dataset in your research, please use the following citation:
 ## Dataset Overview
 - Synthetic dataset using the [CARLA](https://carla.org/) simulator (Open-source simulator for autonomous driving research).
 - The dataset contains 10k camera frames and ground truth bounding box annotations for three classes:
-  -  ** vehicles (bus, car), pedestrians, and traffic lights **
+  - **vehicles (bus, car), pedestrians, and traffic lights**
 - Split into three subsets:
     - Training (6k images)
     - Validation (2k images)
