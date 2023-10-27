@@ -4,7 +4,7 @@ Welcome to the V2X-Object Detection Dataset repository, a fundamental resource d
 This dataset is a crucial tool for the validation and benchmarking of innovative research concepts in the field of autonomous driving, leveraging vehicle-to-everything (V2X) communication.
 
 ## Publication
-For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper "Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving":
+For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper "[Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving](https://arxiv.org/pdf/2308.05234.pdf)":
 - [Read the Full Paper (PDF)](https://arxiv.org/pdf/2308.05234.pdf)
 
 
