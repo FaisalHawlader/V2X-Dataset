@@ -28,22 +28,22 @@ If you use this dataset in your research, please use the following citation:
     - Validation (2k images)
     - and Testing (2k images)
 ```text
-V2X-Dataset:
-- Train
-    - images
-      - .*.bmp
-    - labels
-      - *.txt
-- Test
-    - images
-      - .*.bmp
-    - labels
-      - *.txt
-- Validation
-    - images
-      - .*.bmp
-    - labels
-      - *.txt
+V2X-Dataset (format):
+    - Train
+        - images
+          - .*.bmp
+        - labels
+          - *.txt
+    - Test
+        - images
+          - .*.bmp
+        - labels
+          - *.txt
+    - Validation
+        - images
+          - .*.bmp
+        - labels
+          - *.txt
 ```
 ### Example Images
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
