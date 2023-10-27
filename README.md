@@ -47,21 +47,21 @@ V2X-Dataset:
 ```
 ![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0)
 <div align="center">
-  <p align="center"><img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" /></p>
-  <p align="center">V2X-Dataset:<br>
+  <p align="right"><img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" /></p>
+  <p align="left">V2X-Dataset:<br>
     - Train<br>
     &emsp;- images<br>
-    &emsp;&emsp;- .*.bmp<br>
+    &emsp;&emsp;- *.bmp<br>
     &emsp;- labels<br>
     &emsp;&emsp;- *.txt<br>
     - Test<br>
     &emsp;- images<br>
-    &emsp;&emsp;- .*.bmp<br>
+    &emsp;&emsp;- *.bmp<br>
     &emsp;- labels<br>
     &emsp;&emsp;- *.txt<br>
     - Validation<br>
     &emsp;- images<br>
-    &emsp;&emsp;- .*.bmp<br>
+    &emsp;&emsp;- *.bmp<br>
     &emsp;- labels<br>
     &emsp;&emsp;- *.txt
   </p>
