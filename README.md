@@ -46,6 +46,10 @@ V2X-Dataset:
       - *.txt
 ```
 ![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0)
+<div>
+  <img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" />
+  <p>This is the description or text that will be displayed next to the image.</p>
+</div>
 
 ### Example Images
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
