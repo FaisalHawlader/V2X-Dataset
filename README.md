@@ -46,9 +46,25 @@ V2X-Dataset:
       - *.txt
 ```
 ![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0)
-<div>
-  <img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" />
-  <p>This is the description or text that will be displayed next to the image.</p>
+<div align="center">
+  <p align="center"><img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" /></p>
+  <p align="center">V2X-Dataset:<br>
+    - Train<br>
+    &emsp;- images<br>
+    &emsp;&emsp;- .*.bmp<br>
+    &emsp;- labels<br>
+    &emsp;&emsp;- *.txt<br>
+    - Test<br>
+    &emsp;- images<br>
+    &emsp;&emsp;- .*.bmp<br>
+    &emsp;- labels<br>
+    &emsp;&emsp;- *.txt<br>
+    - Validation<br>
+    &emsp;- images<br>
+    &emsp;&emsp;- .*.bmp<br>
+    &emsp;- labels<br>
+    &emsp;&emsp;- *.txt
+  </p>
 </div>
 
 ### Example Images
