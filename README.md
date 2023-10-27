@@ -8,7 +8,7 @@ For a comprehensive understanding of the dataset and its applications, we recomm
 - [Read the Full Paper (PDF)](https://arxiv.org/pdf/2308.05234.pdf)
 
 
-**Citation:**
+### Citation:
 If you use this dataset in your research, please use the following citation:
 
 ```text
@@ -18,24 +18,12 @@ If you use this dataset in your research, please use the following citation:
   journal={arXiv preprint arXiv:2308.05234},
   year={2023}
 }
-@INPROCEEDINGS{10061953,
-  author={Hawlader, Faisal and Robinet, François and Frank, Raphaël},
-  booktitle={2023 18th Wireless On-Demand Network Systems and Services Conference (WONS)}, 
-  title={Vehicle-to-Infrastructure Communication for Real-Time Object Detection in Autonomous Driving}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={40-46},
-  doi={10.23919/WONS57325.2023.10061953}}
 ```
 
 ## Dataset Overview
 - Synthetic dataset using the CARLA simulator, 10k camera frames
 - Ground truth bounding boxes for three classes: vehicles, pedestrians, and traffic lights
 - Split into three subsets: Training (6000), Validation (2000) and Testing (2000)
-
-
-![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/e9e68ebf-ca45-46e8-9665-b62e948b59ae)
 
 ```
 [CSV_FILE]
