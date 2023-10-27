@@ -1,7 +1,7 @@
 # V2X-Object Detection Dataset
 
 Welcome to the V2X-Object Detection Dataset repository, a fundamental resource designed to support research in real-time object detection for autonomous driving environments.
-This dataset is a crucial tool for the validation and benchmarking of innovative research concepts in the field of autonomous driving, leveraging vehicle-to-everything (V2X) communication.
+This dataset is a crucial tool for the validation and benchmarking of innovative research concepts in the field of autonomous driving, leveraging vehicle-to-everything (V2X) communication, and can be used for different purposes.
 
 ## Publication
 For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper " **Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving**":
@@ -10,6 +10,8 @@ For a comprehensive understanding of the dataset and its applications, we recomm
 
 ### Citation:
 If you use this dataset in your research, please use the following citation:
+
+**Abstract:** Environmental perception is a key element of autonomous driving because the information received from the perception module influences core driving decisions. An outstanding challenge in real-time perception for autonomous driving lies in finding the best trade-off between detection quality and latency. Major constraints on both computation and power must be taken into account for real-time perception in autonomous vehicles.  Larger detection models tend to produce the best results but are also slower at runtime. Since the most accurate detectors may not run in real-time locally, we investigate the possibility of offloading computation to edge and cloud platforms, which are less resource-constrained. We create a synthetic dataset to train object detection models and evaluate different offloading strategies. We measure inference and processing times for object detection on real hardware, and we rely on a network simulation framework to estimate data transmission latency. Our study compares different trade-offs between prediction quality and end-to-end delay. Following the existing literature, we aim to perform object detection at a rate of 20Hz. Since sending raw frames over the network implies additional transmission delays, we also explore the use of JPEG and H.265 compression at varying qualities and measure their impact on prediction. We show that models with adequate compression can be run in real-time on the edge/cloud while outperforming local detection performance.
 
 ```text
 @article{hawlader2023leveraging,
