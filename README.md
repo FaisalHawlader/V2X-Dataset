@@ -46,7 +46,6 @@ V2X-Dataset:
       - *.txt
 ```
 ![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0)
-<div align="center">
   <p align="right"><img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" /></p>
   <p align="left">V2X-Dataset:<br>
     - Train<br>
@@ -65,7 +64,6 @@ V2X-Dataset:
     &emsp;- labels<br>
     &emsp;&emsp;- *.txt
   </p>
-</div>
 
 ### Example Images
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
