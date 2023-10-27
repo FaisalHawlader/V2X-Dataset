@@ -21,7 +21,7 @@ If you use this dataset in your research, please use the following citation:
 ```
 
 ## Dataset Overview
-- Synthetic dataset using the CARLA simulator, 10k camera frames
+- Synthetic dataset using the [CARLA](https://carla.org/) simulator, 10k camera frames
 - Ground truth bounding boxes for three classes: vehicles, pedestrians, and traffic lights
 - Split into three subsets: Training (6000), Validation (2000) and Testing (2000)
 
