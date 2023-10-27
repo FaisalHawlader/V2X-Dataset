@@ -10,12 +10,15 @@ For a comprehensive understanding of the dataset and its applications, we recomm
 If you use this dataset in your research, please use the following citation:
 
 ```text
-@article{hawlader2023leveraging,
-  title={Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving},
-  author={Hawlader, Faisal and Robinet, Fran{\c{c}}ois and Frank, Rapha{\"e}l},
-  journal={arXiv preprint arXiv:2308.05234},
-  year={2023}
-}
+@INPROCEEDINGS{10061953,
+  author={Hawlader, Faisal and Robinet, François and Frank, Raphaël},
+  booktitle={2023 18th Wireless On-Demand Network Systems and Services Conference (WONS)}, 
+  title={Vehicle-to-Infrastructure Communication for Real-Time Object Detection in Autonomous Driving}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={40-46},
+  doi={10.23919/WONS57325.2023.10061953}}
 ```
 ## Dataset Overview
 - Synthetic dataset using the [CARLA](https://carla.org/) simulator (Open-source simulator for autonomous driving research).
