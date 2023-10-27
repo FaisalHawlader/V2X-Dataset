@@ -47,8 +47,8 @@ V2X-Dataset (format):
 ```
 ### Example Images
 <img width="358" alt="image" src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/bdf76a4a-5612-43c4-b3de-8bfb40c5fb41">
+![val_batch0_pred_0 (2)](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/87ded165-aa80-4098-8998-e99e6042539a)
 
-![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
 
 ## Downloads
 To access the complete dataset, please use the following link:
