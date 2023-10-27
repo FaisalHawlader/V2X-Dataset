@@ -28,8 +28,7 @@ If you use this dataset in your research, please use the following citation:
     - Validation (2k images)
     - and Testing (2k images)
 ```
-[Root directory]
-- V2X-Dataset
+### V2X-Dataset
   - Train
     - images
       - .*.bmp
