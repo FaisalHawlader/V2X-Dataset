@@ -1,9 +1,16 @@
-# V2X-Dataset
+# V2X-Object Detection Dataset
 
-Academic datasets are an important source of information to validate and benchmark novel research concepts.
+Welcome to the V2X-Object Detection Dataset repository, a fundamental resource designed to support research in real-time object detection for autonomous driving environments.
+This dataset is a crucial tool for the validation and benchmarking of innovative research concepts in the field of autonomous driving, leveraging vehicle-to-everything (V2X) communication.
 
 ## Publication
-For the detailed description of the dataset, please refer to our [paper](https://arxiv.org/pdf/2308.05234.pdf). If you use this dataset in your research, please use the following citation:
+For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper:
+- [Read the Full Paper (PDF)](https://arxiv.org/pdf/2308.05234.pdf)
+
+
+**Citation:**
+If you use this dataset in your research, please use the following citation:
+
 ```text
 @article{hawlader2023leveraging,
   title={Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving},
@@ -36,7 +43,8 @@ For the detailed description of the dataset, please refer to our [paper](https:/
 ![alt text](https://github.com/raphaelfrank/robobus/blob/main/sample_images.png?raw=true)
 
 ## Downloads
-The total dataset is ~67GB and can be downloaded [here](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/faisal_hawlader_uni_lu/EiPjYoflxEFLk5lCQ5O22oQBgMrmnvAzHau4Y6CpMw1ZgA?e=dDPbJN).
+To access the complete dataset, please use the following link:
+- [Download the Dataset (67GB)](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/faisal_hawlader_uni_lu/EiPjYoflxEFLk5lCQ5O22oQBgMrmnvAzHau4Y6CpMw1ZgA?e=dDPbJN).
 
 ## Acknowledments
 This work is supported by the [Fonds National de la Recherche of Luxembourg (FNR)](https://www.fnr.lu/), under AFR grant agreement No 17020780 and project acronym ACDC.
