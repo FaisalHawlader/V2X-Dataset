@@ -30,6 +30,12 @@ If you use this dataset in your research, please use the following citation:
 ```
 
 ## Dataset Overview
+- Synthetic dataset using the CARLA simulator, 10k camera frames
+- Ground truth bounding boxes for three classes: vehicles, pedestrians, and traffic lights
+- Split into three subsets: Training (6000), Validation (2000) and Testing (2000)
+
+
+![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/e9e68ebf-ca45-46e8-9665-b62e948b59ae)
 
 ```
 [CSV_FILE]
