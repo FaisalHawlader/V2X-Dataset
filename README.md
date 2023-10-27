@@ -46,7 +46,7 @@ V2X-Dataset:
       - *.txt
 ```
 ![image](https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0)
-  <p align="right"><img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="200" /></p>
+  <p align="right"><img src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/44088fa4-272c-455d-a3fd-be8a9f0820c0" alt="Image Alt Text" width="600" /></p>
   <p align="left">V2X-Dataset:<br>
     - Train<br>
     &emsp;- images<br>
