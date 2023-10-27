@@ -46,8 +46,8 @@ V2X-Dataset (format):
           - *.txt
 ```
 ### Example Images
-<img width="358" alt="image" src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/bdf76a4a-5612-43c4-b3de-8bfb40c5fb41">
-<img width="358" alt="image" src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/87ded165-aa80-4098-8998-e99e6042539a">
+<img height="358" width="358" alt="image" src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/bdf76a4a-5612-43c4-b3de-8bfb40c5fb41">
+<img height="358" width="358" alt="image" src="https://github.com/FaisalHawlader/V2X-Dataset/assets/43897254/87ded165-aa80-4098-8998-e99e6042539a">
 
 
 ## Downloads
