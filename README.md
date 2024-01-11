@@ -4,21 +4,21 @@ Welcome to the V2X-Object Detection Dataset repository, a fundamental resource d
 
 ## Publication
 For a comprehensive understanding of the dataset and its applications, we recommend referring to our research paper " **Leveraging the Edge and Cloud for V2X-Based Real-Time Object Detection in Autonomous Driving**":
-- [Read the Full Paper (PDF)](https://arxiv.org/pdf/2308.05234.pdf)
+- [Read the Full Paper (PDF)](https://doi.org/10.1016/j.comcom.2023.11.025)
 
 ### Citation:
 If you use this dataset in your research, please use the following citation:
 
 ```text
-@INPROCEEDINGS{10061953,
-  author={Hawlader, Faisal and Robinet, François and Frank, Raphaël},
-  booktitle={2023 18th Wireless On-Demand Network Systems and Services Conference (WONS)}, 
-  title={Vehicle-to-Infrastructure Communication for Real-Time Object Detection in Autonomous Driving}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={40-46},
-  doi={10.23919/WONS57325.2023.10061953}}
+@article{hawlader2024leveraging,
+  title={Leveraging the edge and cloud for V2X-based real-time object detection in autonomous driving},
+  author={Hawlader, Faisal and Robinet, Fran{\c{c}}ois and Frank, Rapha{\"e}l},
+  journal={Computer Communications},
+  volume={213},
+  pages={372--381},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 ## Dataset Overview
 - Synthetic dataset using the [CARLA](https://carla.org/) simulator (Open-source simulator for autonomous driving research).
