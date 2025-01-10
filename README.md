@@ -54,7 +54,7 @@ V2X-Dataset (format):
 
 ## Downloads
 To access the complete dataset, please use the following link:
-- [Download the Dataset (15 GB)](https://uniluxembourg-my.sharepoint.com/:f:/g/personal/faisal_hawlader_uni_lu/EiPjYoflxEFLk5lCQ5O22oQBgMrmnvAzHau4Y6CpMw1ZgA?e=dDPbJN).
+- [Download the Dataset (15 GB)](https://doi.org/10.5281/zenodo.14534852).
 
 If you encounter any issues or have questions, please feel free to get in touch by sending an email to faisal.hawlader@uni.lu. We'll be happy to assist you!
 ## Acknowledments
